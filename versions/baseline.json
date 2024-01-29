@@ -1,0 +1,8 @@
+{
+  "default": {
+    "cli11": {
+      "baseline": "2.4.0",
+      "port-version": 0
+    }
+  }
+}
