@@ -1,1 +1,1 @@
-# vspkg-registry
+# vcpkg-registry
